@@ -1,0 +1,6 @@
+Em estruturas de pilha, o comportamento é de FILA (First In Last Out), primeiro 
+a entrar é o último a sair, por isso a ordem de remoção/exibição aparece de forma contrária a de inserção.
+
+Em estruturas de fila, o comportamento é de FIFO (First In First Out), primeiro 
+a entrar é o primeiro a sair, por isso a ordem de remoção/exibição aparece em conformidade a de inserção.
+
